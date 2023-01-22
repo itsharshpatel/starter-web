@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Some content
-=======
-Contents added
->>>>>>> small-changes
