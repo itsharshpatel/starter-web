@@ -9,3 +9,11 @@ Sample website with plenty of files for demos
 
 ##Deployment
 This is deployment instruction
+
+##Post
+trghd
+fgjned
+
+
+##Pre
+dvbnk dfgnd dkfjgni sdfiujh egh
